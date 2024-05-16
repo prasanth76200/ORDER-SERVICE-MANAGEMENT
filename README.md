@@ -1,7 +1,7 @@
 
 # ORDER-SERVICE-MANAGEMENT
 
-• Spearheaded the design and implementation of microservice architecture for an Order-Service Management system,
+• Spearheaded the design and implementation of a microservice architecture for an Order-Service Management system,
 leveraging Product, Order, Inventory, and Message services to enhance scalability and maintainability.
 
 • Implemented microservice architecture resulting in a 300% increase in system scalability, accommodating rapid
@@ -14,19 +14,19 @@ business growth and fluctuations in demand without compromising performance
 
 ![Using Sawgger Product Service](https://github.com/prasanth76200/Pictures/blob/main/Pictures/Screenshot%20from%202024-05-16%2015-59-57.png?raw=true)
 
-## Using Sawgger Order Service
+## Using Swagger Order Service
 
 ![Using Sawgger Order Service](https://github.com/prasanth76200/Pictures/blob/main/Pictures/Screenshot%20from%202024-05-16%2015-59-57.png?raw=true)
 
-## Using Sawgger Inventory Service
+## Using Swagger Inventory Service
 
 ![Using Sawgger Inventory Service](https://github.com/prasanth76200/Pictures/blob/main/Pictures/Screenshot%20from%202024-05-16%2016-00-26.png?raw=true)
 
 
 ## Authors
 
-- [Prasanth.K](https://www.linkedin.com/in/followprasanth/)
+- [Prasanth K](https://www.linkedin.com/in/followprasanth/)
 
 
 ## 🛠 Skills
- Java, MySQL, MongoDb, Spring Boot MVC, Swagger, Eurkea, Zipkin, Kafka, Keycloak, Docker
+ Java, MySQL, MongoDB, Spring Boot MVC, Swagger, Eurkea, Zipkin, Kafka, Keycloak, Docker
