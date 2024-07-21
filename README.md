@@ -8,7 +8,7 @@ leveraging Product, Order, Inventory, and Message services to enhance scalabilit
 business growth and fluctuations in demand without compromising performance
 ## Over View Microservice Architecture 
 
-![Over View Microservice Architecture ]([https://github.com/prasanth76200/Pictures/blob/main/Pictures/order-Service.png?raw=true](https://github.com/user-attachments/assets/7247f19e-7acc-4070-93b5-2e8d6b5f74c0))
+![Over View Microservice Architecture ](https://github.com/user-attachments/assets/7247f19e-7acc-4070-93b5-2e8d6b5f74c0)
 
 ## Using Sawgger Product Service
 
